@@ -21,7 +21,7 @@ namespace exercicios
         {
             // BOAS VINDAS AO JOGADOR
 
-            /*EscreveComEfeito("****** BEM-VINDA AO CONSOLE HERO ******");
+            EscreveComEfeito("****** BEM-VINDA AO CONSOLE HERO ******");
             EscreveComEfeito("Qual é o seu nome, heroína?");
 
             string nome = (Console.ReadLine());
@@ -64,7 +64,7 @@ namespace exercicios
             MissaoPedrasMagicas();
             Console.ReadLine();
             MissaoPortal();
-            Console.ReadLine();*/
+            Console.ReadLine();
             MenuMissao();
             Console.ReadLine();
           
