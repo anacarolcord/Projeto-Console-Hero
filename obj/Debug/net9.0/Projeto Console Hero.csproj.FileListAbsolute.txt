@@ -1,0 +1,15 @@
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\bin\Debug\net9.0\Projeto Console Hero.exe
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\bin\Debug\net9.0\Projeto Console Hero.deps.json
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\bin\Debug\net9.0\Projeto Console Hero.runtimeconfig.json
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\bin\Debug\net9.0\Projeto Console Hero.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\bin\Debug\net9.0\Projeto Console Hero.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.AssemblyInfoInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.AssemblyInfo.cs
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.csproj.CoreCompileInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.sourcelink.json
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\refint\Projeto Console Hero.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\Projeto Console Hero.genruntimeconfig.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\Projeto Console Hero\obj\Debug\net9.0\ref\Projeto Console Hero.dll
